@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672598341 source:d:\1.telkomu\telkom-u\semester 3\tp strukdat\mod15_1301213265_if4510\mod15_1301213265_if4510\tp15-1301213265\main.cpp
+	"Tree.h"
+
+1672596893 d:\1.telkomu\telkom-u\semester 3\tp strukdat\mod15_1301213265_if4510\mod15_1301213265_if4510\tp15-1301213265\tree.h
+	<iostream>
+
+1672599520 source:d:\1.telkomu\telkom-u\semester 3\tp strukdat\mod15_1301213265_if4510\mod15_1301213265_if4510\tp15-1301213265\tree.cpp
+	"Tree.h"
+
